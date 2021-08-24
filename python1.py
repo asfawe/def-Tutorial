@@ -1,10 +1,12 @@
+# python 2.6.7
+
 # story of "hong gil dong"
 skill = ["sword", "spear", "bow", "axe"]
 power = [98.5, 89.2, 100, 79.2]
 
 # start of function
 def printItem(inSkill, idx=0):
-    # ±âº» º¯¼ö ¼³Á¤
+    # Â±Ã¢ÂºÂ» ÂºÂ¯Â¼Ã¶ Â¼Â³ÃÂ¤
     name = "Hong Gil Dong"
     age = 18
     weight = 69.3
